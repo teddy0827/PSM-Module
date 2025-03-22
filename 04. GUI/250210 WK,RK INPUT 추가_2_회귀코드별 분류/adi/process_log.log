@@ -1,0 +1,167 @@
+2025-01-22 01:28:50,984 - INFO - Loading data from RawData-1.csv
+2025-01-22 01:28:50,998 - INFO - Applying radius filter: 150000
+2025-01-22 01:28:50,999 - INFO - Filtered out 0 rows exceeding the radius threshold.
+2025-01-22 01:28:51,040 - INFO - Filtered data saved to Radius_Filtered_RawData-1.csv
+2025-01-22 01:28:52,427 - INFO - Starting Zernike analysis
+2025-01-22 01:28:52,431 - INFO - Processing UNIQUE_ID: VH075030_PTVB827_3GJPBVH.VH075P_-_2024-05-30 15:39:37_2024-05-30 17:17:40_B3N049.1_11_E1
+2025-01-22 01:28:52,471 - INFO - Processing UNIQUE_ID: WF075030_PTVP841_5G4PPWF.WF075P_-_2024-07-16 23:04:19_2024-07-16 23:55:04_PDS211.1_11_E1
+2025-01-22 01:28:52,509 - INFO - Zernike coefficients saved to Zernike_Coefficients.csv
+2025-01-22 01:28:52,600 - INFO - Zernike predictions and residuals saved to Z_FIT.csv
+2025-01-22 01:32:18,257 - INFO - Loading data from RawData-1.csv
+2025-01-22 01:32:18,270 - INFO - Applying radius filter: 150000
+2025-01-22 01:32:18,270 - INFO - Filtered out 0 rows exceeding the radius threshold.
+2025-01-22 01:32:18,310 - INFO - Filtered data saved to Radius_Filtered_RawData-1.csv
+2025-01-22 01:32:19,696 - INFO - Starting Zernike analysis
+2025-01-22 01:32:19,699 - INFO - Processing UNIQUE_ID: VH075030_PTVB827_3GJPBVH.VH075P_-_2024-05-30 15:39:37_2024-05-30 17:17:40_B3N049.1_11_E1
+2025-01-22 01:32:19,740 - INFO - Processing UNIQUE_ID: WF075030_PTVP841_5G4PPWF.WF075P_-_2024-07-16 23:04:19_2024-07-16 23:55:04_PDS211.1_11_E1
+2025-01-22 01:32:19,778 - INFO - Zernike coefficients saved to Zernike_Coefficients.csv
+2025-01-22 01:32:19,871 - INFO - Zernike predictions and residuals saved to Z_FIT.csv
+2025-01-22 01:34:22,577 - INFO - Loading data from RawData-1.csv
+2025-01-22 01:34:22,590 - INFO - Applying radius filter: 150000
+2025-01-22 01:34:22,591 - INFO - Filtered out 0 rows exceeding the radius threshold.
+2025-01-22 01:34:22,631 - INFO - Filtered data saved to Radius_Filtered_RawData-1.csv
+2025-01-22 01:34:23,996 - INFO - Starting Zernike analysis
+2025-01-22 01:34:23,998 - INFO - Processing UNIQUE_ID: VH075030_PTVB827_3GJPBVH.VH075P_-_2024-05-30 15:39:37_2024-05-30 17:17:40_B3N049.1_11_E1
+2025-01-22 01:34:24,038 - INFO - Processing UNIQUE_ID: WF075030_PTVP841_5G4PPWF.WF075P_-_2024-07-16 23:04:19_2024-07-16 23:55:04_PDS211.1_11_E1
+2025-01-22 01:34:24,075 - INFO - Zernike coefficients saved to Zernike_Coefficients.csv
+2025-01-22 01:34:24,167 - INFO - Zernike predictions and residuals saved to Z_FIT.csv
+2025-01-22 01:35:58,206 - INFO - Loading data from RawData-1.csv
+2025-01-22 01:35:58,220 - INFO - Applying radius filter: 150000
+2025-01-22 01:35:58,221 - INFO - Filtered out 0 rows exceeding the radius threshold.
+2025-01-22 01:35:58,260 - INFO - Filtered data saved to Radius_Filtered_RawData-1.csv
+2025-01-22 01:35:59,627 - INFO - Starting Zernike analysis
+2025-01-22 01:35:59,630 - INFO - Processing UNIQUE_ID: VH075030_PTVB827_3GJPBVH.VH075P_-_2024-05-30 15:39:37_2024-05-30 17:17:40_B3N049.1_11_E1
+2025-01-22 01:35:59,670 - INFO - Processing UNIQUE_ID: WF075030_PTVP841_5G4PPWF.WF075P_-_2024-07-16 23:04:19_2024-07-16 23:55:04_PDS211.1_11_E1
+2025-01-22 01:35:59,706 - INFO - Zernike coefficients saved to Zernike_Coefficients.csv
+2025-01-22 01:35:59,795 - INFO - Zernike predictions and residuals saved to Z_FIT.csv
+2025-01-22 01:57:33,871 - INFO - Loading data from RawData-1.csv
+2025-01-22 01:57:33,884 - INFO - Applying radius filter: 150000
+2025-01-22 01:57:33,885 - INFO - Filtered out 0 rows exceeding the radius threshold.
+2025-01-22 01:57:33,925 - INFO - Filtered data saved to Radius_Filtered_RawData-1.csv
+2025-01-22 01:57:35,277 - INFO - Starting Zernike analysis
+2025-01-22 01:57:35,280 - INFO - Processing UNIQUE_ID: VH075030_PTVB827_3GJPBVH.VH075P_-_2024-05-30 15:39:37_2024-05-30 17:17:40_B3N049.1_11_E1
+2025-01-22 01:57:35,321 - INFO - Processing UNIQUE_ID: WF075030_PTVP841_5G4PPWF.WF075P_-_2024-07-16 23:04:19_2024-07-16 23:55:04_PDS211.1_11_E1
+2025-01-22 01:57:35,356 - INFO - Zernike coefficients saved to Zernike_Coefficients.csv
+2025-01-22 01:57:35,448 - INFO - Zernike predictions and residuals saved to Z_FIT.csv
+2025-02-09 22:01:28,464 - INFO - Loading data from RawData-1.csv
+2025-02-09 22:01:28,480 - INFO - Applying radius filter: 150000
+2025-02-09 22:01:28,480 - INFO - Filtered out 0 rows exceeding the radius threshold.
+2025-02-09 22:01:28,511 - INFO - Filtered data saved to Radius_Filtered_RawData-1.csv
+2025-02-09 22:01:29,126 - INFO - Starting Zernike analysis
+2025-02-09 22:01:29,126 - INFO - Processing UNIQUE_ID: VH075030_PTVB827_3GJPBVH.VH075P_-_2024-05-30 15:39:37_2024-05-30 17:17:40_B3N049.1_11_E1
+2025-02-09 22:01:29,175 - INFO - Processing UNIQUE_ID: WF075030_PTVP841_5G4PPWF.WF075P_-_2024-07-16 23:04:19_2024-07-16 23:55:04_PDS211.1_11_E1
+2025-02-09 22:01:29,211 - INFO - Zernike coefficients saved to Zernike_Coefficients.csv
+2025-02-09 22:01:29,304 - INFO - Zernike predictions and residuals saved to Z_FIT.csv
+2025-02-10 00:58:25,680 - INFO - Loading data from RawData-1.csv
+2025-02-10 00:58:25,694 - INFO - Applying radius filter: 150000
+2025-02-10 00:58:25,695 - INFO - Filtered out 0 rows exceeding the radius threshold.
+2025-02-10 00:58:25,737 - INFO - Filtered data saved to Radius_Filtered_RawData-1.csv
+2025-02-10 00:58:26,298 - INFO - Starting Zernike analysis
+2025-02-10 00:58:26,301 - INFO - Processing UNIQUE_ID: VH075030_PTVB827_3GJPBVH.VH075P_-_2024-05-30 15:39:37_2024-05-30 17:17:40_B3N049.1_11_E1
+2025-02-10 00:58:26,341 - INFO - Processing UNIQUE_ID: WF075030_PTVP841_5G4PPWF.WF075P_-_2024-07-16 23:04:19_2024-07-16 23:55:04_PDS211.1_11_E1
+2025-02-10 00:58:26,377 - INFO - Zernike coefficients saved to Zernike_Coefficients.csv
+2025-02-10 00:58:26,472 - INFO - Zernike predictions and residuals saved to Z_FIT.csv
+2025-02-10 01:05:16,831 - INFO - Loading data from RawData-1.csv
+2025-02-10 01:05:16,845 - INFO - Applying radius filter: 150000
+2025-02-10 01:05:16,846 - INFO - Filtered out 0 rows exceeding the radius threshold.
+2025-02-10 01:05:16,888 - INFO - Filtered data saved to Radius_Filtered_RawData-1.csv
+2025-02-10 01:05:17,436 - INFO - Starting Zernike analysis
+2025-02-10 01:05:17,438 - INFO - Processing UNIQUE_ID: VH075030_PTVB827_3GJPBVH.VH075P_-_2024-05-30 15:39:37_2024-05-30 17:17:40_B3N049.1_11_E1
+2025-02-10 01:05:17,477 - INFO - Processing UNIQUE_ID: WF075030_PTVP841_5G4PPWF.WF075P_-_2024-07-16 23:04:19_2024-07-16 23:55:04_PDS211.1_11_E1
+2025-02-10 01:05:17,514 - INFO - Zernike coefficients saved to Zernike_Coefficients.csv
+2025-02-10 01:05:17,605 - INFO - Zernike predictions and residuals saved to Z_FIT.csv
+2025-02-10 01:06:07,215 - INFO - Loading data from RawData-1.csv
+2025-02-10 01:06:07,230 - INFO - Applying radius filter: 150000
+2025-02-10 01:06:07,231 - INFO - Filtered out 0 rows exceeding the radius threshold.
+2025-02-10 01:06:07,273 - INFO - Filtered data saved to Radius_Filtered_RawData-1.csv
+2025-02-10 01:06:07,841 - INFO - Starting Zernike analysis
+2025-02-10 01:06:07,844 - INFO - Processing UNIQUE_ID: VH075030_PTVB827_3GJPBVH.VH075P_-_2024-05-30 15:39:37_2024-05-30 17:17:40_B3N049.1_11_E1
+2025-02-10 01:06:07,884 - INFO - Processing UNIQUE_ID: WF075030_PTVP841_5G4PPWF.WF075P_-_2024-07-16 23:04:19_2024-07-16 23:55:04_PDS211.1_11_E1
+2025-02-10 01:06:07,920 - INFO - Zernike coefficients saved to Zernike_Coefficients.csv
+2025-02-10 01:06:08,014 - INFO - Zernike predictions and residuals saved to Z_FIT.csv
+2025-02-10 01:44:22,666 - INFO - Loading data from RawData-1.csv
+2025-02-10 01:44:22,682 - INFO - Applying radius filter: 150000
+2025-02-10 01:44:22,683 - INFO - Filtered out 0 rows exceeding the radius threshold.
+2025-02-10 01:44:22,725 - INFO - Filtered data saved to Radius_Filtered_RawData-1.csv
+2025-02-10 01:44:23,309 - INFO - Starting Zernike analysis
+2025-02-10 01:44:23,312 - INFO - Processing UNIQUE_ID: VH075030_PTVB827_3GJPBVH.VH075P_-_2024-05-30 15:39:37_2024-05-30 17:17:40_B3N049.1_11_E1
+2025-02-10 01:44:23,355 - INFO - Processing UNIQUE_ID: WF075030_PTVP841_5G4PPWF.WF075P_-_2024-07-16 23:04:19_2024-07-16 23:55:04_PDS211.1_11_E1
+2025-02-10 01:44:23,392 - INFO - Zernike coefficients saved to Zernike_Coefficients.csv
+2025-02-10 01:44:23,487 - INFO - Zernike predictions and residuals saved to Z_FIT.csv
+2025-02-10 02:02:25,669 - INFO - Loading data from RawData-1.csv
+2025-02-10 02:02:25,685 - INFO - Applying radius filter: 150000
+2025-02-10 02:02:25,685 - INFO - Filtered out 0 rows exceeding the radius threshold.
+2025-02-10 02:02:25,728 - INFO - Filtered data saved to Radius_Filtered_RawData-1.csv
+2025-02-10 02:02:47,710 - INFO - Loading data from RawData-1.csv
+2025-02-10 02:02:47,725 - INFO - Applying radius filter: 150000
+2025-02-10 02:02:47,726 - INFO - Filtered out 0 rows exceeding the radius threshold.
+2025-02-10 02:02:47,768 - INFO - Filtered data saved to Radius_Filtered_RawData-1.csv
+2025-02-10 02:02:48,328 - INFO - Starting Zernike analysis
+2025-02-10 02:02:48,332 - INFO - Processing UNIQUE_ID: VH075030_PTVB827_3GJPBVH.VH075P_-_2024-05-30 15:39:37_2024-05-30 17:17:40_B3N049.1_11_E1
+2025-02-10 02:02:48,371 - INFO - Processing UNIQUE_ID: WF075030_PTVP841_5G4PPWF.WF075P_-_2024-07-16 23:04:19_2024-07-16 23:55:04_PDS211.1_11_E1
+2025-02-10 02:02:48,407 - INFO - Zernike coefficients saved to Zernike_Coefficients.csv
+2025-02-10 02:02:48,506 - INFO - Zernike predictions and residuals saved to Z_FIT.csv
+2025-03-21 00:03:51,619 - INFO - Loading data from RawData-1.csv
+2025-03-21 00:03:51,635 - INFO - Applying radius filter: 150000
+2025-03-21 00:03:51,636 - INFO - Filtered out 0 rows exceeding the radius threshold.
+2025-03-21 00:03:51,681 - INFO - Filtered data saved to Radius_Filtered_RawData-1.csv
+2025-03-21 00:03:52,275 - INFO - Starting Zernike analysis
+2025-03-21 00:03:52,278 - INFO - Processing UNIQUE_ID: VH075030_PTVB827_3GJPBVH.VH075P_-_2024-05-30 15:39:37_2024-05-30 17:17:40_B3N049.1_11_E1
+2025-03-21 00:03:52,318 - INFO - Processing UNIQUE_ID: WF075030_PTVP841_5G4PPWF.WF075P_-_2024-07-16 23:04:19_2024-07-16 23:55:04_PDS211.1_11_E1
+2025-03-21 00:03:52,354 - INFO - Zernike coefficients saved to Fringe_Zernike_Coefficients.csv
+2025-03-21 00:03:52,456 - INFO - Zernike Fitting 결과 저장 완료.
+2025-03-21 00:09:52,114 - INFO - Loading data from RawData-1.csv
+2025-03-21 00:09:52,115 - ERROR - Error during radius filtering: [Errno 2] No such file or directory: 'RawData-1.csv'
+2025-03-21 00:14:38,752 - INFO - Loading data from results\RawData-1.csv
+2025-03-21 00:14:38,767 - INFO - Applying radius filter: 150000
+2025-03-21 00:14:38,768 - INFO - Filtered out 0 rows exceeding the radius threshold.
+2025-03-21 00:14:38,810 - INFO - Filtered data saved to results\Radius_Filtered_RawData-1.csv
+2025-03-21 00:14:39,408 - INFO - Starting Zernike analysis
+2025-03-21 00:14:39,411 - INFO - Processing UNIQUE_ID: VH075030_PTVB827_3GJPBVH.VH075P_-_2024-05-30 15:39:37_2024-05-30 17:17:40_B3N049.1_11_E1
+2025-03-21 00:14:39,451 - INFO - Processing UNIQUE_ID: WF075030_PTVP841_5G4PPWF.WF075P_-_2024-07-16 23:04:19_2024-07-16 23:55:04_PDS211.1_11_E1
+2025-03-21 00:14:39,487 - INFO - Zernike coefficients saved to Fringe_Zernike_Coefficients.csv
+2025-03-21 00:14:39,588 - INFO - Zernike Fitting 결과 저장 완료.
+2025-03-21 01:31:03,769 - INFO - Loading data from results\RawData-1.csv
+2025-03-21 01:31:03,784 - INFO - Applying radius filter: 150000
+2025-03-21 01:31:03,785 - INFO - Filtered out 0 rows exceeding the radius threshold.
+2025-03-21 01:31:03,817 - INFO - Filtered data saved to results\Radius_Filtered_RawData-1.csv
+2025-03-21 01:31:04,178 - INFO - Starting Zernike analysis
+2025-03-21 01:31:04,180 - INFO - Processing UNIQUE_ID: VH075030_PTVB827_3GJPBVH.VH075P_PTXV821_2024-05-30 15:39:37_2024-05-30 17:17:40_B3N049.1_11_E1
+2025-03-21 01:31:04,221 - INFO - Zernike coefficients saved to Fringe_Zernike_Coefficients.csv
+2025-03-21 01:31:04,302 - INFO - Zernike Fitting 결과 저장 완료.
+2025-03-21 03:51:02,320 - INFO - Loading data from results\RawData-1.csv
+2025-03-21 03:51:02,333 - INFO - Applying radius filter: 150000
+2025-03-21 03:51:02,334 - INFO - Filtered out 0 rows exceeding the radius threshold.
+2025-03-21 03:51:02,366 - INFO - Filtered data saved to results\Radius_Filtered_RawData-1.csv
+2025-03-21 03:54:03,090 - INFO - Loading data from results\RawData-1.csv
+2025-03-21 03:54:03,105 - INFO - Applying radius filter: 150000
+2025-03-21 03:54:03,106 - INFO - Filtered out 0 rows exceeding the radius threshold.
+2025-03-21 03:54:03,147 - INFO - Filtered data saved to results\Radius_Filtered_RawData-1.csv
+2025-03-21 03:54:03,519 - INFO - Starting Zernike analysis
+2025-03-21 03:54:03,522 - INFO - Processing UNIQUE_ID: VH075030_PTVB827_3GJPBVH.VH075P_PTXV821_2024-05-30 15:39:37_2024-05-30 17:17:40_B3N049.1_11_E1
+2025-03-21 03:54:03,564 - INFO - Zernike coefficients saved to Fringe_Zernike_Coefficients.csv
+2025-03-21 03:54:03,655 - INFO - Zernike Fitting 결과 저장 완료.
+2025-03-21 04:09:31,725 - INFO - Loading data from results\RawData-1.csv
+2025-03-21 04:09:31,743 - INFO - Applying radius filter: 150000
+2025-03-21 04:09:31,744 - INFO - Filtered out 0 rows exceeding the radius threshold.
+2025-03-21 04:09:31,777 - INFO - Filtered data saved to results\Radius_Filtered_RawData-1.csv
+2025-03-21 04:09:32,149 - INFO - Starting Zernike analysis
+2025-03-21 04:09:32,152 - INFO - Processing UNIQUE_ID: VH075030_PTVB827_3GJPBVH.VH075P_PTXV821_2024-05-30 15:39:37_2024-05-30 17:17:40_B3N049.1_11_E1
+2025-03-21 04:09:32,197 - INFO - Zernike coefficients saved to Fringe_Zernike_Coefficients.csv
+2025-03-21 04:09:32,278 - INFO - Zernike Fitting 결과 저장 완료.
+2025-03-21 04:09:43,784 - INFO - Loading data from results\RawData-1.csv
+2025-03-21 04:09:43,797 - INFO - Applying radius filter: 150000
+2025-03-21 04:09:43,798 - INFO - Filtered out 0 rows exceeding the radius threshold.
+2025-03-21 04:09:43,830 - INFO - Filtered data saved to results\Radius_Filtered_RawData-1.csv
+2025-03-21 04:17:54,342 - INFO - Loading data from results\RawData-1.csv
+2025-03-21 04:17:54,357 - INFO - Applying radius filter: 150000
+2025-03-21 04:17:54,358 - INFO - Filtered out 0 rows exceeding the radius threshold.
+2025-03-21 04:17:54,390 - INFO - Filtered data saved to results\Radius_Filtered_RawData-1.csv
+2025-03-21 04:24:48,624 - INFO - Loading data from results\RawData-1.csv
+2025-03-21 04:24:48,645 - INFO - Applying radius filter: 150000
+2025-03-21 04:24:48,645 - INFO - Filtered out 0 rows exceeding the radius threshold.
+2025-03-21 04:24:48,677 - INFO - Filtered data saved to results\Radius_Filtered_RawData-1.csv
+2025-03-21 04:24:49,044 - INFO - Starting Zernike analysis
+2025-03-21 04:24:49,046 - INFO - Processing UNIQUE_ID: VH075030_PTVB827_3GJPBVH.VH075P_PTXV821_2024-05-30 15:39:37_2024-05-30 17:17:40_B3N049.1_11_E1
+2025-03-21 04:24:49,089 - INFO - Zernike coefficients saved to Fringe_Zernike_Coefficients.csv
+2025-03-21 04:24:49,169 - INFO - Zernike Fitting 결과 저장 완료.

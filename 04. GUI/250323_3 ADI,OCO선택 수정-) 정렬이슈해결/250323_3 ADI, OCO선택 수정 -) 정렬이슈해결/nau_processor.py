@@ -375,9 +375,10 @@ def save_combined_data(rawdata_list, trocs_input_list, psm_input_list, mrc_list,
 
     # 정렬
     combined_rawdata = combined_rawdata.sort_values(by=['UNIQUE_ID', 'TEST', 'DieX', 'DieY'])
-    combined_trocs_input = combined_trocs_input.sort_values(by=['UNIQUE_ID', 'dCol', 'dRow'])
-    combined_psm_input = combined_psm_input.sort_values(by=['UNIQUE_ID', 'dCol', 'dRow'])
-    combined_mrc_data = combined_mrc_data.sort_values(by=['UNIQUE_ID', 'INDEX'])
+    combined_trocs = combined_trocs.sort_values(by=['UNIQUE_ID', 'dCol', 'dRow'])
+    combined_psm = combined_psm.sort_values(by=['UNIQUE_ID', 'dCol', 'dRow'])
+    combined_mrc = combined_mrc.sort_values(by=['UNIQUE_ID', 'INDEX'])
+    
     
 
     # 파일명을 결과 폴더 경로와 함께 지정하여 저장합니다.
